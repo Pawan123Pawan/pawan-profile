@@ -4,6 +4,7 @@ function SendMSG(e) {
     let email_txt = document.querySelector("#email111");
     let number_txt = document.querySelector("#number111");
     let message_txt = document.querySelector("#message111");
+    // console.log(nam_txt.value)
     let body =
       "Name:" +
       nam_txt.value +
@@ -19,14 +20,17 @@ function SendMSG(e) {
   
     let temp = {
       from_name: nam_txt.value,
-      to_name: "Chandan Kumar",
+      to_name: "Pawan Kumar",
       message: body,
     };
-    
+    console.log(body)
+
     // emailjs.send("service_txa94nr","template_enz1bmk");
-    emailjs.send("service_txa94nr", "template_enz1bmk", temp).then((res) => {
+    emailjs.send("service_w5d7fk9", "template_rvqxzgg", temp).then((res) => {
+      
       if (res.status == 200) {
         success();
+        console.log("mailto:" )
       } else {
         failure();
       }
@@ -47,11 +51,5 @@ function SendMSG(e) {
     // }, 2000);
   }
   
-  function failure() {
-    // let fail = document.querySelector(".failed-msgpop");
-    // fail.style.display = "block";
-    // setTimeout(() => {
-    //   fail.style.display = "none";
-    // }, 2000);
-  }
+
   

@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Chandan Kumar 💻! Glad to see you here!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Pawan Kumar 💻! Glad to see you here!
 </h2>
 <h3 align="center">"Aspiring Full Stack Web Developer with Expertise in Node.js Backend Development"</h3>
 <hr>
@@ -8,38 +8,26 @@
 
 Greetings! I'm Chandan Kumar, a dedicated Full Stack Web Developer. I specialize in NODE stack and JavaScript for seamless web development and backend operations. With a passion for crafting digital solutions that enhance user experiences, I'm eager to tackle new challenges. Excited to explore compelling opportunities where I can contribute my skills to drive innovation and create impactful solutions.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color:"red">
-     <a>
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Chandan Kumar 🏽; I am a Full Stack%20Web%20Developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-      </p>
-      
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 🔭 I have completed **Full Stack Web Development** 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankumar1425&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar1425" /> </p>
-
-<img align="right" alt="Coding" width="400"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🔭 I’m currently pursuing **Full Stack Web Development**
-
--    Checkout my **[Resume](https://drive.google.com/file/d/1SE2qqDdIdkg07ec1m7Oloi_jYZ06-Y5q/view?usp=sharing)**
+-    Checkout my **[Resume](https://drive.google.com/file/d/1NhSdykqcIXaJYx8yxHq0wXESUJXQE6Gv/view?usp=sharing)**
 - 🌱 I’m currently learning **NODE stack**
 
-- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/kaushikchandan6372/)**
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/pawan-kumar-3515041a4/)**
 
-- 📫 Reach me on **chandankumarbehera1425@gmail.com**
+- 📫 Reach me on **pawanmaurya4277@gmail.com**
 
 - 💬 ask me about anything, I would be happy to help
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio](https://chandankumar1425.github.io/)
+- 💬 Have a look at my [Portfolio](https://pawan-profile.vercel.app/)
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaushikchandan_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikchandan6372/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaushikchandan_) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/chandankumarbehera1425/) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chandankumar1425.github.io/)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-kumar-3515041a4/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pawanma55680068) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Pawan_Kumar123/) [![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pawan-profile.vercel.app/)
 
 <h2 align="left">⚡Tech Stack</h2>
 <table align="center">
