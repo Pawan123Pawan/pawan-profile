@@ -35,14 +35,22 @@ $(document).ready(function () {
 
   // typing text animation script
   var typed = new Typed(".typing", {
-    strings: ["Full Stack Web Developer", "Node Backend Developer", "MERN Stack Developer"],
+    strings: [
+      "Full Stack Web Developer",
+      "Node Backend Developer",
+      "MERN Stack Developer",
+    ],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
   });
 
   var typed = new Typed(".typing-2", {
-    strings: ["Full Stack Web Developer", "Node Backend Developer", "MERN Stack Developer"],
+    strings: [
+      "Full Stack Web Developer",
+      "Node Backend Developer",
+      "MERN Stack Developer",
+    ],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
@@ -79,7 +87,7 @@ let drive = document
 function openDrive() {
   window.open(
     (href =
-      "https://drive.google.com/file/d/1NhSdykqcIXaJYx8yxHq0wXESUJXQE6Gv/view?usp=sharing")
+      "https://drive.google.com/file/d/1dBPNeTFDgHEj_JJjE5rarqSVbSYlb5wW/view?usp=sharing")
   );
 }
 
@@ -90,11 +98,6 @@ let drive2 = document
 function openDrive2() {
   window.open(
     (href =
-      "https://drive.google.com/file/d/1NhSdykqcIXaJYx8yxHq0wXESUJXQE6Gv/view?usp=sharing")
+      "https://drive.google.com/file/d/1dBPNeTFDgHEj_JJjE5rarqSVbSYlb5wW/view?usp=sharing")
   );
 }
-
-
-
-
-
